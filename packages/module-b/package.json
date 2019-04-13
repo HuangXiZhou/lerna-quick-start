@@ -10,6 +10,9 @@
   "homepage": "https://github.com/HuangXiZhou/lerna-quick-start/tree/master/packages/module-b#readme",
   "license": "WTFPL",
   "main": "lib/module-b.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
