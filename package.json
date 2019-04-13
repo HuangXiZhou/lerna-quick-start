@@ -1,0 +1,26 @@
+{
+  "name": "@xizhouh/lerna-quick-start",
+  "version": "0.0.0",
+  "description": "Lerna quick start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangXiZhou/lerna-quick-start.git"
+  },
+  "keywords": [
+    "lerna",
+    "quick-start"
+  ],
+  "author": "XiZhou Huang <xizhouh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuangXiZhou/lerna-quick-start/issues"
+  },
+  "homepage": "https://github.com/HuangXiZhou/lerna-quick-start#readme",
+  "devDependencies": {
+    "lerna": "^3.13.2"
+  }
+}

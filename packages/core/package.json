@@ -1,0 +1,30 @@
+{
+  "name": "@xizhouh/lerna-quick-start-core",
+  "version": "0.0.0",
+  "description": "Lerna quick start core package.",
+  "keywords": [
+    "lerna",
+    "quick-start"
+  ],
+  "author": "Amigooo <xizhouh@gmail.com>",
+  "homepage": "https://github.com/HuangXiZhou/lerna-quick-start/tree/master/packages/core#readme",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangXiZhou/lerna-quick-start.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/HuangXiZhou/lerna-quick-start/issues"
+  }
+}
