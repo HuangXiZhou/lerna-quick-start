@@ -8,7 +8,7 @@
   ],
   "author": "Amigooo <xizhouh@gmail.com>",
   "homepage": "https://github.com/HuangXiZhou/lerna-quick-start/tree/master/packages/core#readme",
-  "license": "MIT",
+  "license": "WTFPL",
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",

@@ -8,7 +8,7 @@
   ],
   "author": "Amigooo <xizhouh@gmail.com>",
   "homepage": "https://github.com/HuangXiZhou/lerna-quick-start/tree/master/packages/module-a#readme",
-  "license": "MIT",
+  "license": "WTFPL",
   "main": "lib/module-a.js",
   "directories": {
     "lib": "lib",
