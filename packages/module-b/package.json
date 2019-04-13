@@ -1,6 +1,6 @@
 {
   "name": "@xizhouh/lerna-quick-start-module-b",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lerna quick start module b package.",
   "keywords": [
     "lerna",
@@ -28,6 +28,6 @@
     "url": "https://github.com/HuangXiZhou/lerna-quick-start/issues"
   },
   "dependencies": {
-    "@xizhouh/lerna-quick-start-core": "^0.0.0"
+    "@xizhouh/lerna-quick-start-core": "^0.0.1"
   }
 }

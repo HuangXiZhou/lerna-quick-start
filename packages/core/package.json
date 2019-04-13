@@ -1,6 +1,6 @@
 {
   "name": "@xizhouh/lerna-quick-start-core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lerna quick start core package.",
   "keywords": [
     "lerna",
