@@ -6,4 +6,5 @@ module.exports = moduleA;
 
 function moduleA() {
     core();
+    console.log('module-a');
 }
