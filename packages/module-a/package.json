@@ -1,6 +1,6 @@
 {
   "name": "@xizhouh/lerna-quick-start-module-a",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Lerna quick start module a package.",
   "keywords": [
     "lerna",
